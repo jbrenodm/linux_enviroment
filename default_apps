@@ -1,6 +1,9 @@
 Docker
-    Images
-    Containers
+    sudo apt install docker.i -y
+    sudo apt update
+    sudo apt upgrade -y
+        Images and Containers
+            https://github.com/jbrenodm/docker_dev
 Steam
 Visual Code
 Workbench
