@@ -15,4 +15,12 @@ Spotify
     sudo apt-get update
     sudo apt-get install spotify-client -y
 OpenSSH
-Anydesk    
+    sudo apt install openssh-server -y
+Anydesk
+Webmin
+    apt-get install perl libnet-ssleay-perl openssl libauthen-pam-perl libpam-runtime libio-pty-perl apt-show-versions python -y
+    wget http://prdownloads.sourceforge.net/webadmin/webmin_1.941_all.deb
+    dpkg --install webmin_1.941_all.deb
+    sudo nano etc/webmin/miniserv.conf
+     (alterar a linha "ssl=1" para "ssl=0")
+    service webmin restart
