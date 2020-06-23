@@ -1,2 +1,2 @@
-# linux_enviroment
-Script to install most used applications
+## linux_enviroment ##
+    * Script to install most used applications *
