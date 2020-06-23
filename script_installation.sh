@@ -13,6 +13,7 @@ sudo apt install \
     spotify-client \
     openssh-server \
     atom \
+    gnome-tweaks\
     -y \
 && \
     wget http://prdownloads.sourceforge.net/webadmin/webmin_1.941_all.deb \
