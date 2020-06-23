@@ -12,6 +12,7 @@ sudo apt install \
     dbeaver-ce \
     spotify-client \
     openssh-server \
+    atom \
     -y \
 && \
     wget http://prdownloads.sourceforge.net/webadmin/webmin_1.941_all.deb \
